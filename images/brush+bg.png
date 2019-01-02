@@ -1,0 +1,179 @@
+﻿html{overflow-y:scroll;}
+*{margin:0; padding:0; border:0;}
+body{font-family:"맑은 고딕", 돋움, 'normal dotum', sans-serif;	font-size:0.9em; letter-spacing:-0.1em; background:url(../images/body_bg4.gif)}
+li{list-style:none;}
+a{text-decoration:none;}
+img{border:0;}
+
+.fl{float:left;}
+.fr{float:right;}
+.cb{clear: both;}
+.cf:after{content:""; display:block; clear:both;}
+.cf{*zoom:1;}
+
+/* 					시작 부분입니다. */
+
+#header
+	{width:100%; height:120px; position:fixed; }
+
+#header #header_box
+	{width:100%; height:100%; margin:0 auto; background:#ffffff; box-shadow:1px 1px 5px #707070; overflow:hidden;}
+#header #header_box>h1
+	{float:left; margin-left:170px; margin-top:30px; float:left; font-family: 'Lobster', cursive; font-size:4em; color:#b35900; letter-spacing:0.5px;}
+#header #header_box>h1>span
+	{position:relative; left:10px; top:-30px; font-size:30px;  color:#B30059;}
+#header #header_box .menu_box 
+	{float:right; margin-right:10%; margin-top:50px; }
+#header #header_box p
+	{float:left;  margin-right:25px;  background:url(../images/brush_bg.png) no-repeat;}
+#header #header_box .menu_box >p>a
+	{font-size:20px; font-family: 'Oswald', sans-serif; letter-spacing:1px; color:#999999;}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
